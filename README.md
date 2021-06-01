@@ -5,7 +5,7 @@
 
 * Administração de Empresas
 
-*Ciências Contábeis
+* Ciências Contábeis
 
 * Especialização em Controladoria e finanças
 
