@@ -12,9 +12,13 @@ Formações:
 Eu sou Administrador e estou me desenvolvendo na área de Data Analitics!
 
 💻 Atualmente, trabalho como Estrategista
+
 💻 Sou Consultor e Professor de Análise de dados (Excel/Power BI/Ciência de dados/BI/Inteligência de Mercado) 
+
 💻 Cursando a Graduação em Ciências de Dados (UNIVESP)
+
 📈 Estou constantemente aprendendo e melhorando minhas habilidades
+
 📊 Pretendo colaborar com outros cientistas de dados e desenvolvedores
 
 E-mail:
