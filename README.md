@@ -1,8 +1,7 @@
-Patrick_Nascimento/README.md
 
-Patrick Nascimento 
+## Patrick Nascimento
 
-Formações:
+# Formações:
 
 * Administração de Empresas
 * Ciências Contábeis
@@ -21,7 +20,8 @@ Eu sou Administrador e estou me desenvolvendo na área de Data Analytics / Ciên
 
 📊 Pretendo colaborar com outros cientistas de dados e desenvolvedores
 
-E-mail:
+
+# E-mail:
 
 p.nascimentoads@gmail.com
 
