@@ -4,8 +4,12 @@
 ## Formações:
 
 * Administração de Empresas
+
 *Ciências Contábeis
+
 * Especialização em Controladoria e finanças
+
+
 
 Eu sou Administrador e estou desenvolvendo na área de Data Analitics / Ciências de Dados !!!
 
