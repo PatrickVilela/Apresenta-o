@@ -24,3 +24,5 @@ Eu sou Administrador e estou me desenvolvendo na área de Data Analytics / Ciên
 E-mail:
 
 p.nascimentoads@gmail.com
+patricklvnascimento@gmail.com
+
