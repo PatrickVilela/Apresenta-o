@@ -9,7 +9,7 @@ Formações:
 * Especialização em Controladoria e Finanças
 
 
-Eu sou Administrador e estou me desenvolvendo na área de Data Analitics!
+Eu sou Administrador e estou me desenvolvendo na área de Data Analytics / Ciência de dados !!!
 
 💻 Atualmente, trabalho como Estrategista
 
