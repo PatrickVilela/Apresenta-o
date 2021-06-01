@@ -19,12 +19,12 @@ Eu sou Administrador e estou desenvolvendo na área de Data Analitics / Ciência
 
 📊 Pretendo colaborar com outros cientistas de dados e desenvolvedores
 
-E-mail:
+## E-mail:
 
 p.nascimentoads@gmail.com
 
 patricklvnascimento@gmail.com
 
-Linkedin:
+## Linkedin:
 
 www.linkedin.com/in/patrick-nascimento
